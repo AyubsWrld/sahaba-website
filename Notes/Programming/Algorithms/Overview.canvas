@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e8b94b9ce24465db","type":"text","text":"[[Fundamentals of Algorithmic Problem Solving]]","x":-80,"y":-300,"width":200,"height":80,"color":"1"},
+		{"id":"0d4a1ddf8b9384b9","type":"text","text":"[[Fundamental Data Structures]]","x":-105,"y":160,"width":250,"height":60,"color":"1"},
+		{"id":"8a1a762061eadb4e","x":-371,"y":352,"width":111,"height":60,"color":"1","type":"text","text":"[[Lists]]"},
+		{"id":"d7d9e9484b82f325","x":-28,"y":352,"width":128,"height":60,"color":"1","type":"text","text":"[[Sets]]"},
+		{"id":"51efb9da9639913b","x":181,"y":352,"width":179,"height":60,"color":"1","type":"text","text":"[[Graphs & Trees]]"},
+		{"id":"e8a94e39cb40cde8","type":"text","text":"[[Notion of an Algorithm]]","x":-105,"y":-60,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"a53ebbfbf6e8e4fc","fromNode":"0d4a1ddf8b9384b9","fromSide":"bottom","toNode":"8a1a762061eadb4e","toSide":"top"},
+		{"id":"2955e4ef9a841cbc","fromNode":"0d4a1ddf8b9384b9","fromSide":"bottom","toNode":"d7d9e9484b82f325","toSide":"top"},
+		{"id":"f635c9b82beded42","fromNode":"0d4a1ddf8b9384b9","fromSide":"bottom","toNode":"51efb9da9639913b","toSide":"top"},
+		{"id":"722a133acced10f2","fromNode":"e8b94b9ce24465db","fromSide":"bottom","toNode":"e8a94e39cb40cde8","toSide":"top","fromEnd":"arrow"},
+		{"id":"625d00e356e0ebb4","fromNode":"e8a94e39cb40cde8","fromSide":"bottom","toNode":"0d4a1ddf8b9384b9","toSide":"top","fromEnd":"arrow"}
+	]
+}
