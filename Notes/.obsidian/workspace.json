@@ -61,12 +61,24 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Programming/Design Patterns/Outline.canvas",
+                "file": "Project Planning/Keepur/Keepr Outline.canvas",
                 "viewState": {
-                  "x": -20.752497197008722,
-                  "y": 239.1329925708917,
-                  "zoom": -1.333333333333333
+                  "x": 1621.6898862311439,
+                  "y": 1445.1214584503227,
+                  "zoom": -2.333333333333333
                 }
+              }
+            }
+          },
+          {
+            "id": "fefacbd9ee88724c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Keepur/Outline.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -83,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Design Patterns/Outline.canvas",
+                "file": "Project Planning/Keepur/Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Design Patterns/Outline.canvas",
+                "file": "Project Planning/Keepur/Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Design Patterns/Outline.canvas"
+                "file": "Project Planning/Keepur/Outline.md"
               }
             }
           }
@@ -212,15 +224,21 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "87f83cfa9d569ea3",
+  "active": "88c133c60264fe72",
   "lastOpenFiles": [
-    "Programming/System Design/Overview.canvas",
+    "Project Planning/Keepur/Keepr Outline.canvas",
+    "Project Planning/Keepur/Outline.md",
+    "Project Planning/Keepur/Abstract.md",
+    "Programming/Design Patterns/Introduction/Design Patterns in Smalltalk.md",
+    "Untitled",
+    "Programming/Design Patterns/Introduction/How to select a Design Pattern.md",
     "Programming/Design Patterns/Outline.canvas",
+    "Programming/Design Patterns/Introduction/What is a Design Pattern.md",
+    "Programming/System Design/Overview.canvas",
     "Introduction",
     "MATH/Geometry/Axioms & Postulates/Postulates.md",
     "MATH/Images/Pasted image 20240604144226.png",
     "MATH/Linear Algebra/Outline.canvas",
-    "Untitled.md",
     "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Batch Processing System.md",
     "README.md",
     "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Chaos Engineering.md",
@@ -242,17 +260,12 @@
     "MATH/Linear Algebra/Exponential Form",
     "Methods.md",
     "MATH/Geometry/Primitives/Segment Length.md",
-    "MATH/Geometry/Primitives/Segment.md",
-    "MATH/Geometry/Syntax/Midpoint.md",
-    "MATH/Geometry/Syntax/Interior Point Addition.md",
-    "MATH/Geometry/Syntax/Ray Emanating.md",
     "MATH/Geometry/Syntax",
     "MATH/Geometry/Primitives",
     "MATH/Geometry/Geometric Figures",
     "MATH/Geometry/Axioms & Postulates",
     "Programming/Algorithms",
     "Programming/Algorithms 1",
-    "Programming/Algorithms/Means of Representation",
     "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
     "Programming/Mobile Development/expo/Native Module Structure.canvas",
     "Programming/Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
