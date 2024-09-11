@@ -61,11 +61,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Programming/System Design/Overview.canvas",
+                "file": "Programming/Design Patterns/Outline.canvas",
                 "viewState": {
-                  "x": -530.9097780006985,
-                  "y": -43.46249021635664,
-                  "zoom": -1.0221365462400105
+                  "x": -20.752497197008722,
+                  "y": 239.1329925708917,
+                  "zoom": -1.333333333333333
                 }
               }
             }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/System Design/Overview.canvas",
+                "file": "Programming/Design Patterns/Outline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/System Design/Overview.canvas",
+                "file": "Programming/Design Patterns/Outline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/System Design/Overview.canvas"
+                "file": "Programming/Design Patterns/Outline.canvas"
               }
             }
           }
@@ -214,10 +214,12 @@
   },
   "active": "87f83cfa9d569ea3",
   "lastOpenFiles": [
+    "Programming/System Design/Overview.canvas",
+    "Programming/Design Patterns/Outline.canvas",
+    "Introduction",
     "MATH/Geometry/Axioms & Postulates/Postulates.md",
     "MATH/Images/Pasted image 20240604144226.png",
     "MATH/Linear Algebra/Outline.canvas",
-    "Programming/System Design/Overview.canvas",
     "Untitled.md",
     "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Batch Processing System.md",
     "README.md",
@@ -251,7 +253,6 @@
     "Programming/Algorithms",
     "Programming/Algorithms 1",
     "Programming/Algorithms/Means of Representation",
-    "MATH/Linear Algebra/Complex Numbers",
     "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
     "Programming/Mobile Development/expo/Native Module Structure.canvas",
     "Programming/Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
