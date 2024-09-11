@@ -8,66 +8,70 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce78d9f66b33cd02",
+            "id": "37c389e0e2850350",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/Complex Numbers.md",
+                "file": "MATH/Geometry/Primitives/Segment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2d7bff261296859c",
+            "id": "1693b467d38de090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/Complex Numbers.md",
+                "file": "MATH/Geometry/Axioms & Postulates/Axioms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef542b011919d712",
+            "id": "8d3d7fc31e123a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH/Linear Algebra/Complex Numbers/Complex Numbers.md",
+                "file": "MATH/Geometry/Syntax/Interior Point Addition.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c9418963c998e590",
+            "id": "c94cbf90efd86be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/Geometry/Syntax/Midpoint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87f83cfa9d569ea3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Programming/Algorithms/Overview.canvas",
+                "file": "Programming/System Design/Overview.canvas",
                 "viewState": {
-                  "x": -1.572567768255908,
-                  "y": 105.46219736211233,
-                  "zoom": 0.3333333333333332
+                  "x": -530.9097780006985,
+                  "y": -43.46249021635664,
+                  "zoom": -1.0221365462400105
                 }
               }
             }
           },
           {
-            "id": "076d54fedc8662cd",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "520c86bab54404db",
+            "id": "c7fb0347cdaeca6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,21 +81,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a90002acc92afa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Algorithms/Notion of an Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 337.5
   },
   "right": {
     "id": "3e1e8c190d75938f",
@@ -157,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Algorithms/Overview.canvas",
+                "file": "Programming/System Design/Overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Algorithms/Overview.canvas",
+                "file": "Programming/System Design/Overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Algorithms/Overview.canvas"
+                "file": "Programming/System Design/Overview.canvas"
               }
             }
           }
@@ -220,48 +212,49 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c9418963c998e590",
+  "active": "87f83cfa9d569ea3",
   "lastOpenFiles": [
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Arithmetic.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number Modulus.md",
-    "Programming/Algorithms/Notion of an Algorithm.md",
-    "Programming/Algorithms/Overview.canvas",
-    "Programming/Computer Science/Languages/Objective-C/Classes.md",
-    "Programming/Algorithms",
-    "Programming/Computer Science/Languages/Objective-C/NSObject.md",
-    "Programming/Computer Science/Languages/Objective-C/Overview.md",
-    "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
-    "Programming/Computer Science/Languages/Objective-C/Loops.md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Numbers.md",
-    "Misc/Calendar/2024-09-06 D.Lay | Linear Algebra (p.513).md",
-    "MATH/Linear Algebra/Complex Numbers/Complex Number System.md",
+    "MATH/Geometry/Axioms & Postulates/Postulates.md",
+    "MATH/Images/Pasted image 20240604144226.png",
+    "MATH/Linear Algebra/Outline.canvas",
+    "Programming/System Design/Overview.canvas",
+    "Untitled.md",
+    "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Batch Processing System.md",
+    "README.md",
+    "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Chaos Engineering.md",
+    "Programming/System Design/Reliable , Scalable , and Maintainable Applications",
+    "Programming/System Design/Reliable , Scalable , and Maintainable Applications/Debug Build.md",
+    "Programming/Algorithms/Means of Representation/Graph Traversal.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Conjugate.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Division.md",
     "MATH/Linear Algebra/Complex Numbers/Complex Number Equivalence.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Exponential Form.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Example.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Geometric Interpretation.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Polar Form.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number System.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Multiplicative.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Numbers.md",
+    "MATH/Linear Algebra/Complex Numbers/Complex Number Modulus.md",
+    "MATH/Linear Algebra/Complex Numbers/Eulers Formula.md",
+    "MATH/Linear Algebra/Exponential Form",
+    "Methods.md",
+    "MATH/Geometry/Primitives/Segment Length.md",
+    "MATH/Geometry/Primitives/Segment.md",
+    "MATH/Geometry/Syntax/Midpoint.md",
+    "MATH/Geometry/Syntax/Interior Point Addition.md",
+    "MATH/Geometry/Syntax/Ray Emanating.md",
+    "MATH/Geometry/Syntax",
+    "MATH/Geometry/Primitives",
+    "MATH/Geometry/Geometric Figures",
+    "MATH/Geometry/Axioms & Postulates",
+    "Programming/Algorithms",
+    "Programming/Algorithms 1",
+    "Programming/Algorithms/Means of Representation",
     "MATH/Linear Algebra/Complex Numbers",
-    "MATH/Linear Algebra/Systems of Linear Equations.md",
-    "MATH/Trigonometry/Sine , Cosine , Tan on unit circle.md",
-    "MATH/Linear Algebra/de Moire's Formula.md",
-    "Mo.md",
-    "MATH/Linear Algebra/Argument Z.md",
-    "MATH/Trigonometry/Cosine of Sum.md",
-    "MATH/Trigonometry",
-    "MATH/Linear Algebra/Polar Coordinates.md",
-    "MATH/Linear Algebra/Modulus.md",
-    "MATH/Linear Algebra/Conjugate Numbers.md",
-    "MATH/Linear Algebra/Kramers Rule.md",
-    "MATH/Linear Algebra/Operations with matrices.md",
-    "MATH/Linear Algebra/Reduced REF.md",
-    "MATH/Linear Algebra/Determinants.md",
-    "Programming/Mobile Development/react-native",
-    "MATH/Linear Algebra",
-    "MATH/Geometry",
-    "Misc/Calendar",
-    "Misc",
-    "Programming/Algorithms/Greedy Technique",
-    "Programming/Algorithms/Dynamic Programming",
+    "Programming/Computer Science/Languages/Objective-C/Program Structure.canvas",
     "Programming/Mobile Development/expo/Native Module Structure.canvas",
     "Programming/Computer Science/Theory/RBDMS/Pasted image 20240610175142.png",
-    "MATH/Images/Pasted image 20240604144226.png",
     "Untitled 1.canvas"
   ]
 }

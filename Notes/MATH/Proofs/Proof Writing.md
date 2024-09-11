@@ -244,3 +244,7 @@ ___
 7) There exist no integers a and b for which 21a+30b=1.
 	**Proof by contradiction** suppose there exists integers a and b such that 21a+30b = 1
 	
+
+____
+
+Tags : #math #discrete-math 
